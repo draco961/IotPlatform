@@ -1,14 +1,67 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "firstName": "Darwin",
+    "lastName": "Harber",
+    "age": 39
+  },
+  {
+    "firstName": "Wilson",
+    "lastName": "Hermann",
+    "age": 47
+  },
+  {
+    "firstName": "Nyasia",
+    "lastName": "Steuber",
+    "age": 23
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Kling",
+    "age": 50
+  },
+  {
+    "firstName": "Princess",
+    "lastName": "Douglas",
+    "age": 40
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Schuster",
+    "age": 53
+  },
+  {
+    "firstName": "Cordelia",
+    "lastName": "Moore",
+    "age": 32
+  },
+  {
+    "firstName": "Walton",
+    "lastName": "Aufderhar",
+    "age": 37
+  },
+  {
+    "firstName": "Maximilian",
+    "lastName": "Spinka",
+    "age": 35
+  },
+  {
+    "firstName": "Natalie",
+    "lastName": "Braun",
+    "age": 48
+  },
+  {
+    "firstName": "Uriah",
+    "lastName": "Wehner",
+    "age": 29
+  },
+  {
+    "firstName": "Damon",
+    "lastName": "Kertzmann",
+    "age": 45
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Muller",
+    "age": 60
   }
-}
+]
